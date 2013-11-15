@@ -11,3 +11,20 @@
 *.la
 
 *Debug.win32*
+
+# Ignore files build by xcode
+*.mode*v*
+*.pbxuser
+*.xcbkptlist
+*.xcscheme
+*.xcworkspacedata
+*.xcuserstate
+*.xcuserdata
+xcschememanagement.plist
+build/
+.DS_Store
+._.*
+xcuserdata/
+DerivedData/
+*.xcuserstate
+demo/demo_artemis_tank/proj.ios_mac/HelloCpp.xcodeproj/project.xcworkspace/xcuserdata/guanghui.xcuserdatad/UserInterfaceState.xcuserstate

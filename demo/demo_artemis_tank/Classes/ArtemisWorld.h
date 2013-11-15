@@ -2,11 +2,11 @@
 #define __ARTEMIS_WORLD_H__
 
 // artemis
-#include "include\EntitySystem.h"
-#include "include\World.h"
+#include "EntitySystem.h"
+#include "World.h"
 
 // cocos2dx
-#include "support\component\CCComponent.h"
+#include "cocos2d.h"
 
 // game
 class CameraSystem;
